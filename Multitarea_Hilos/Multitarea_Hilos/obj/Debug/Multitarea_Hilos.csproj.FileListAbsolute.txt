@@ -1,0 +1,11 @@
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\bin\Debug\Multitarea_Hilos.exe.config
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\bin\Debug\Multitarea_Hilos.exe
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\bin\Debug\Multitarea_Hilos.pdb
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\obj\Debug\Multitarea_Hilos.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\obj\Debug\Multitarea_Hilos.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\obj\Debug\Multitarea_Hilos.Form1.resources
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\obj\Debug\Multitarea_Hilos.Properties.Resources.resources
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\obj\Debug\Multitarea_Hilos.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\obj\Debug\Multitarea_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\obj\Debug\Multitarea_Hilos.exe
+C:\Users\PC-1\Desktop\Multitarea_Hilos\Multitarea_Hilos\obj\Debug\Multitarea_Hilos.pdb
